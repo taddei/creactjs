@@ -1,11 +1,11 @@
 {
   "name": "creactjs",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "",
   "main": "index.js",
   "preferGlobal": "true",
   "bin": {
-    "creact": "./bin/creact.js"
+    "creactjs": "./bin/creactjs.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
