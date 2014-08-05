@@ -5,7 +5,7 @@
   "main": "index.js",
   "preferGlobal": "true",
   "bin": {
-    "creactjs": "./bin/creactjs.js"
+    "cjs": "./bin/creactjs.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

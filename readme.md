@@ -21,9 +21,9 @@ The above command will create:
 - index.jsx file, the main view for your component.
 
 ####Init options
-- -s,-store will add to your module a base store implementation
-- -v,-view if the store option is set, this will create a view together with a store
-- -git <repo> will add to the manifest file the correct repo for your module
+- -s,-store : will add to your module a base store implementation
+- -v,-view : if the store option is set, this will create a view together with a store
+- -git repoUrl : will add to the manifest file the correct repo for your module
 
 ### Contacts ###
 - contact me for any info or if you want to help contribute creactjs@gmail.com
