@@ -2,7 +2,8 @@
 
 var actions = {
   help: require('../lib/help'),
-  init: require('../lib/init')
+  init: require('../lib/init'),
+  publish: require('../lib/publish')
 };
 
 // process commands
