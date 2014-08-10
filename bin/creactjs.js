@@ -3,7 +3,8 @@
 var actions = {
   help: require('../lib/help'),
   init: require('../lib/init'),
-  publish: require('../lib/publish')
+  publish: require('../lib/publish'),
+  useradd: require('../lib/useradd')
 };
 
 // process commands
